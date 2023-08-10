@@ -4,7 +4,7 @@ Create a Tabs component that accepts a tabs prop, which is an array of objects w
 
 The component should render a list of clickable tabs with the title of each object. 
 
-When a tab is clicked, the corresponding content should be displayed below the list of tabs.
+When a tab is clicked, the corresponding content should be displayed below the list of tabs..
 
 <ins>**OUTPUT:**</ins>
 
