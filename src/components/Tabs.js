@@ -1,7 +1,7 @@
 import React,{useState} from "react";
 
 const Tabs = ({tabs,setTabs}) => {
-    let [content1,setContent1] = useState("Content for Tab 1");
+    let [content1,setContent1] = useState("This is the Content for Tab 1");
   return (
     <div>
         {/* Do not remove the main div */}
